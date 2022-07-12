@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgb(197, 186, 186);
+}
+
+.btn-outline-dark {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #fff;
+}
