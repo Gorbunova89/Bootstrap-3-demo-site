@@ -1,3 +1,7 @@
+body {
+    background-color: silver;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
 }
@@ -80,4 +84,13 @@
 
 .icon-box:hover {
     border-color: chartreuse;
+}
+
+.reviews {
+    /* padding-bottom: 3rem; */
+    background: url(img/DSC05794.jpg);
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 70vh;
 }
